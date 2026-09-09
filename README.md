@@ -1,1 +1,1 @@
-A repository for Activity VI.
+A repository for Math 300.
